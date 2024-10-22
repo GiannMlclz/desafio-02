@@ -1,3 +1,28 @@
 body {
     font-family: "Rethink Sans", sans-serif;
 }
+
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:crimson;
+}
+
+#caracteristicas {
+    color:rgb(112, 20, 178);
+}
+.subtitulo-rojo {
+    color: rgb(228, 38, 38);
+}
+
+.subtitulo-morado {
+    color: blueviolet;
+}
+
+.subtitulo-celeste {
+    color: skyblue;
+}
+
+.subtitulo-amarillo {
+    color: yellow;
+}
